@@ -1,4 +1,4 @@
-# Intelligent Battery Recycling System
+# Hybrid ML-Digital Twin based Battery Recycling System
 
 This project presents a hybrid AI-powered system designed to optimize material recovery in lithium-ion battery recycling. The system combines machine learning models, contamination detection, and digital twin simulation to predict chemical extraction, detect anomalies, and simulate batch behavior.
 
